@@ -37,8 +37,7 @@ for (let i = 0; i < squareClasses.length; i++) {
 
 }
 function painting(event) {
-        event.target.squareClasses[1]
-        squareClasses.replace()
-        
-    }
+    event.target.squareClasses[i].replace(bigClass[i],squareClasses[i])
+
+}
 
